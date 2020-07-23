@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p align="center">
@@ -43,3 +44,7 @@ To donate, please follow [this](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xcl
 <br>
 	<a href="https://forum.magicmirror.builders/topic/728/magicmirror-is-voted-number-1-in-the-magpi-top-50"><img src="https://magicmirror.builders/img/magpi-best-watermark-custom.png" width="150" alt="MagPi Top 50"></a>
 </p>
+=======
+# magic-mirror
+Raspberry Pi Magic Mirror Project
+>>>>>>> 14e3f10471657fc4aa06dc526766c7df22f5df7d
